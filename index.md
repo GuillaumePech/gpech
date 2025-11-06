@@ -14,7 +14,7 @@ I study neural and behavioral markers of **volition**, with a focus on the **Rea
 
 GitHub: <https://github.com/GuillaumePech>  
 
-> For a full CV, contact me by email (replace with your email).
+> [[CV]](CV_Post_doc_2025.pdf){:target="_blank"}
 
 ---
 ## Selected Publications
