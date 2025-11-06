@@ -14,8 +14,6 @@ Did you choose to be here? If yes, you must rely on a subjective experience that
 
 To answer these questions, I study neural and behavioral markers of **volition**, with a focus on the **Readiness Potential** and related self-report and implicit measures (e.g., temporal binding). More broadly, I investigate how decision-making processes interface with debates on free will and social/moral behavior.
 
-GitHub: <https://github.com/GuillaumePech>  
-
 > [[CV]](/CV_Post_doc_2025.pdf){:target="_blank"}
 
 ---
@@ -43,10 +41,5 @@ GitHub: <https://github.com/GuillaumePech>
 - Lecture — **Introduction to Mixed models** (ULB, 2024, 2025). [[github]](https://github.com/GuillaumePech/Cours-Mixed-Models_OMN2024)
 - Tutorial — **Introduction to MNE-python** (ULB, 2024,2025). [[github]](https://github.com/GuillaumePech/EEG_Introduction_Mne-Python)
 
----
 
-## Contact
-- Email: guillaumepech.cog@gmail.com / guillaume.pech@ulb.be
-- Location: Brussels, Avenue Antoine Depage 30, 1050, DB10.243, Belgium
-- Languages: French (native), English (B2+)
 
