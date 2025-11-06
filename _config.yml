@@ -1,5 +1,7 @@
 title: Guillaume P. Pech
-description: Neuroscience of volition, free will, and decision-making
+description: Cognitive Science of volition, agency, and decision-making
 theme: jekyll-theme-minimal
 logo: /portrait.jpg
 show_downloads: false
+github:
+  is_project_page: false
