@@ -1,13 +1,5 @@
 
 
-## Environment
-
-_PhD student, Université libre de Bruxelles (ULB)_
-
-CO3 lab (ULB) — supervised by Prof. [Axel Cleeremans](https://axc.ulb.be/){:target="_blank"}  
-Brain Institute (Chapman University) — co-supervised by Prof. [Uri Maoz](https://www.chapman.edu/our-faculty/uri-maoz.aspx){:target="_blank"}   
-M&SB lab (Ghent University) — collaborating with Prof. [Emilie Caspar](https://emiliecaspar.home.blog/){:target="_blank"} 
-
 **Research interests:** Intentions, effort, voluntary action, sense of agency, empathy, meta-science, decision-making, EEG and statistical inference.
 
 ---
@@ -18,6 +10,14 @@ Did you choose to be here? If yes, you must rely on a subjective experience that
 To answer these questions, I study neural and behavioural markers of **volition**, with a focus on the **Readiness Potential** and related self-report and implicit measures (e.g., temporal binding). More broadly, I investigate how decision-making processes interface with debates on free will and social/moral behavior.
 
 > More infos -> [[CV]](/CV_Post_doc_2025.pdf){:target="_blank"} 
+
+---
+
+## Environment
+
+CO3 lab (ULB) — supervised by Prof. [Axel Cleeremans](https://axc.ulb.be/){:target="_blank"}  
+Brain Institute (Chapman University) — co-supervised by Prof. [Uri Maoz](https://www.chapman.edu/our-faculty/uri-maoz.aspx){:target="_blank"}   
+M&SB lab (Ghent University) — collaborating with Prof. [Emilie Caspar](https://emiliecaspar.home.blog/){:target="_blank"} 
 
 ---
 ## Publications
