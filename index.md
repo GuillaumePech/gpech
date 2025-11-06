@@ -39,7 +39,7 @@ GitHub: <https://github.com/GuillaumePech>
 ---
 
 ## Contact
-- Email: _you@ulb.be_ (replace with your email)
-- Location: Brussels, Belgium
+- Email: guillaumepech.cog@gmail.com / guillaume.pech@ulb.be
+- Location: Brussels, Avenue Antoine Depage 30, 1050, DB10.243, Belgium
 - Languages: French (native), English (B2+)
 
