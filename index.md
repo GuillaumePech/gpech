@@ -1,23 +1,23 @@
 # Guillaume P. Pech
 
 _PhD Student, Université libre de Bruxelles (ULB)_  
-CO3 lab (ULB) — supervised by Prof. Axel Cleeremans  
-Brain Institute (Chapman University) — co-supervised by Prof. Uri Maoz  
-M&SB lab (Ghent University) — collaborating with Prof. Emilie Caspar
+CO3 lab (ULB) — supervised by Prof. [Axel Cleeremans](https://axc.ulb.be/){:target="_blank"} 
+Brain Institute (Chapman University) — co-supervised by Prof. [Uri Maoz](https://www.chapman.edu/our-faculty/uri-maoz.aspx){:target="_blank"}   
+M&SB lab (Ghent University) — collaborating with Prof. [Emilie Caspar](https://emiliecaspar.home.blog/){:target="_blank"} 
 
-**Research interests:** Intentions, free will, voluntary action, sense of agency, empathy, meta-science, inference and decision-making.
+**Research interests:** Intentions, effort, voluntary action, sense of agency, empathy, meta-science, decision-making, EEG and statistical inference.
 
 ---
 
 ## About
-I study neural and behavioral markers of **volition**, with a focus on the **Readiness Potential** and related self-report and implicit measures (e.g., temporal binding). More broadly, I investigate how decision-making processes interface with debates on **free will** and social/moral behavior.
+Did you choose to be here? If yes, you must rely on a subjective experience that you make your *own choice*, producing action of your *own will*. But what is so specific about the actions that we experience as controlled compared to those that we do not? Why do we feel this way? To answer these questions, I study neural and behavioral markers of **volition**, with a focus on the **Readiness Potential** and related self-report and implicit measures (e.g., temporal binding). More broadly, I investigate how decision-making processes interface with debates on free will and social/moral behavior.
 
 GitHub: <https://github.com/GuillaumePech>  
 
 > [[CV]](/CV_Post_doc_2025.pdf){:target="_blank"}
 
 ---
-## Selected Publications
+## Publications
 - Pech, G. P., & Caspar, E. A. (2025). _A cross-cultural EEG study of how obedience and conformity influence reconciliation intentions_. **Social Cognitive and Affective Neuroscience**. [[PDF]](papers/CrossCultur2025.pdf){:target="_blank"} [[DOI]](https://pubmed.ncbi.nlm.nih.gov/40324900/){:target="_blank"}
 - Caspar, E. A., Pech, G. P., & Ros, P. (2025). _Long-term affective and non-affective brain alterations across three generations following the genocide in Cambodia_. **Biological Psychology**. [[PDF]](papers/PTSD2025.pdf){:target="_blank"} [[DOI]](https://doi.org/10.1016/j.biopsycho.2025.109028){:target="_blank"}
 - Pech, G. P., Caspar, E. A., Pacherie, E., Cleeremans, A., & Maoz, U. (2025). _A multi-measurement study of the relation between deliberation and volition_. **Neuroscience of Consciousness**. [[PDF]](papers/Deliberation2025.pdf){:target="_blank"} [[DOI]](https://doi.org/10.1093/nc/niaf023){:target="_blank"}
@@ -30,11 +30,16 @@ GitHub: <https://github.com/GuillaumePech>
 
 
 ---
-
-## Talks & Teaching (selection)
+## Draft ongoing papers
+- Pech, P. G., Nicolay E., Rimkevičius P., Maoz U., Cleeremans A. The  Role of Endogenous Input in Self-Generated Action: A Multi-Measurement Study Comparing Markers of Volition. [[draft]](papers/draft_Selfgen.pdf){:target="_blank"}
+- Pech, P. G., Berry S., Cleeremans A. The  Role of Endogenous Input in Self-Generated Action: A Multi-Measurement Study Comparing Markers of Volition. [[draft]](papers/draft_IntPred.pdf){:target="_blank"}
+  
+---
+## Teaching (selection)
 - Lecture — **Introduction to Evidence Accumulation Models** (ULB, 2025). [[Colab]](https://colab.research.google.com/drive/1BGMNS-1piSNQyAPyNgwEvq09w8nbQpOQ?usp=sharing)
 - Lecture — **Introduction to (Deep) Neural Networks** (ULB, 2025). [[Colab]](https://colab.research.google.com/drive/1JAl5btj7kulCfZeBgauZFNoXVDX5IRTp?usp=sharing)
-- Symposium — **A cross-cultural EEG study of how obedience and conformity influence reconciliation intentions** (ESCAN 2024; BAPS 2025).
+- Lecture — **Introduction to Mixed models** (ULB, 2024, 2025). [[github]](https://github.com/GuillaumePech/Cours-Mixed-Models_OMN2024)
+- Tutorial — **Introduction to MNE-python** (ULB, 2024,2025). [[github]](https://github.com/GuillaumePech/EEG_Introduction_Mne-Python)
 
 ---
 
