@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  {% include head-custom.html %}
+</head>
+<body>
+  <div class="container-lg px-3 my-5 markdown-body">
+    {%- if site.logo -%}
+      <p><img src="{{ site.logo | relative_url }}" alt="{{ site.title | default: site.github.repository_name }}" width="140"></p>
+    {%- endif -%}
+
+    <h1>
+      <a href="{{ '/' | relative_url }}">{{ site.title | default: site.github.repository_name }}</a>
+    </h1>
+
+    {%- if site.description -%}
+      <p>{{ site.description }}</p>
+    {%- endif -%}
+
+    {{ content }}
+
+    {#-- Your custom footer replaces the theme credit line --#}
+    {% include footer.html %}
+  </div>
+</body>
+</html>
