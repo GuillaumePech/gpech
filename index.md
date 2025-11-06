@@ -17,7 +17,7 @@ GitHub: <https://github.com/GuillaumePech>
 > [[CV]](/CV_Post_doc_2025.pdf){:target="_blank"}
 
 ---
-## Selected Publications
+## Publications
 - Pech, G. P., & Caspar, E. A. (2025). _A cross-cultural EEG study of how obedience and conformity influence reconciliation intentions_. **Social Cognitive and Affective Neuroscience**. [[PDF]](papers/CrossCultur2025.pdf){:target="_blank"} [[DOI]](https://pubmed.ncbi.nlm.nih.gov/40324900/){:target="_blank"}
 - Caspar, E. A., Pech, G. P., & Ros, P. (2025). _Long-term affective and non-affective brain alterations across three generations following the genocide in Cambodia_. **Biological Psychology**. [[PDF]](papers/PTSD2025.pdf){:target="_blank"} [[DOI]](https://doi.org/10.1016/j.biopsycho.2025.109028){:target="_blank"}
 - Pech, G. P., Caspar, E. A., Pacherie, E., Cleeremans, A., & Maoz, U. (2025). _A multi-measurement study of the relation between deliberation and volition_. **Neuroscience of Consciousness**. [[PDF]](papers/Deliberation2025.pdf){:target="_blank"} [[DOI]](https://doi.org/10.1093/nc/niaf023){:target="_blank"}
@@ -30,13 +30,16 @@ GitHub: <https://github.com/GuillaumePech>
 
 
 ---
-
+## Draft ongoing papers
+- Pech, P. G., Nicolay E., Rimkevičius P., Maoz U., Cleeremans A. The  Role of Endogenous Input in Self-Generated Action: A Multi-Measurement Study Comparing Markers of Volition. [[draft]](papers/draft_Selfgen.pdf){:target="_blank"}
+- Pech, P. G., Berry S., Cleeremans A. The  Role of Endogenous Input in Self-Generated Action: A Multi-Measurement Study Comparing Markers of Volition. [[draft]](papers/draft_IntPred.pdf){:target="_blank"}
+  
+---
 ## Teaching (selection)
 - Lecture — **Introduction to Evidence Accumulation Models** (ULB, 2025). [[Colab]](https://colab.research.google.com/drive/1BGMNS-1piSNQyAPyNgwEvq09w8nbQpOQ?usp=sharing)
 - Lecture — **Introduction to (Deep) Neural Networks** (ULB, 2025). [[Colab]](https://colab.research.google.com/drive/1JAl5btj7kulCfZeBgauZFNoXVDX5IRTp?usp=sharing)
 - Lecture — **Introduction to Mixed models** (ULB, 2024, 2025). [[github]](https://github.com/GuillaumePech/Cours-Mixed-Models_OMN2024)
 - Tutorial — **Introduction to MNE-python** (ULB, 2024,2025). [[github]](https://github.com/GuillaumePech/EEG_Introduction_Mne-Python)
-- 
 
 ---
 
