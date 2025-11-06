@@ -3,7 +3,7 @@ _PhD Student, Université libre de Bruxelles (ULB)_
 
 ## Environment
 
-CO3 lab (ULB) — supervised by Prof. [Axel Cleeremans](https://axc.ulb.be/){:target="_blank"}
+CO3 lab (ULB) — supervised by Prof. [Axel Cleeremans](https://axc.ulb.be/){:target="_blank"}  
 Brain Institute (Chapman University) — co-supervised by Prof. [Uri Maoz](https://www.chapman.edu/our-faculty/uri-maoz.aspx){:target="_blank"}   
 M&SB lab (Ghent University) — collaborating with Prof. [Emilie Caspar](https://emiliecaspar.home.blog/){:target="_blank"} 
 
