@@ -1,4 +1,3 @@
-# Guillaume P. Pech
 
 _PhD Student, Université libre de Bruxelles (ULB)_  
 CO3 lab (ULB) — supervised by Prof. [Axel Cleeremans](https://axc.ulb.be/){:target="_blank"} 
