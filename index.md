@@ -1,16 +1,16 @@
 # Guillaume P. Pech
 
 _PhD Student, Université libre de Bruxelles (ULB)_  
-CO3 lab (ULB) — supervised by Prof. Axel Cleeremans  
-Brain Institute (Chapman University) — co-supervised by Prof. Uri Maoz  
-M&SB lab (Ghent University) — collaborating with Prof. Emilie Caspar
+CO3 lab (ULB) — supervised by Prof. [Axel Cleeremans](https://axc.ulb.be/){:target="_blank"} 
+Brain Institute (Chapman University) — co-supervised by Prof. [Uri Maoz](https://www.chapman.edu/our-faculty/uri-maoz.aspx){:target="_blank"}   
+M&SB lab (Ghent University) — collaborating with Prof. [Emilie Caspar](https://emiliecaspar.home.blog/){:target="_blank"} 
 
-**Research interests:** Intentions, free will, voluntary action, sense of agency, empathy, meta-science, inference and decision-making.
+**Research interests:** Intentions, effort, voluntary action, sense of agency, empathy, meta-science, decision-making, EEG and statistical inference.
 
 ---
 
 ## About
-I study neural and behavioral markers of **volition**, with a focus on the **Readiness Potential** and related self-report and implicit measures (e.g., temporal binding). More broadly, I investigate how decision-making processes interface with debates on **free will** and social/moral behavior.
+Did you choose to be here? If yes, you must rely on a subjective experience that you make your *own choice*, producing action of your *own will*. But what is so specific about the actions that we experience as controlled compared to those that we do not? Why do we feel this way? To answer these questions, I study neural and behavioral markers of **volition**, with a focus on the **Readiness Potential** and related self-report and implicit measures (e.g., temporal binding). More broadly, I investigate how decision-making processes interface with debates on free will and social/moral behavior.
 
 GitHub: <https://github.com/GuillaumePech>  
 
@@ -31,10 +31,12 @@ GitHub: <https://github.com/GuillaumePech>
 
 ---
 
-## Talks & Teaching (selection)
+## Teaching (selection)
 - Lecture — **Introduction to Evidence Accumulation Models** (ULB, 2025). [[Colab]](https://colab.research.google.com/drive/1BGMNS-1piSNQyAPyNgwEvq09w8nbQpOQ?usp=sharing)
 - Lecture — **Introduction to (Deep) Neural Networks** (ULB, 2025). [[Colab]](https://colab.research.google.com/drive/1JAl5btj7kulCfZeBgauZFNoXVDX5IRTp?usp=sharing)
-- Symposium — **A cross-cultural EEG study of how obedience and conformity influence reconciliation intentions** (ESCAN 2024; BAPS 2025).
+- Lecture — **Introduction to Mixed models** (ULB, 2024, 2025). [[github]](https://github.com/GuillaumePech/Cours-Mixed-Models_OMN2024)
+- Tutorial — **Introduction to MNE-python** (ULB, 2024,2025). [[github]](https://github.com/GuillaumePech/EEG_Introduction_Mne-Python)
+- 
 
 ---
 
