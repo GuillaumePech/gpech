@@ -1,5 +1,12 @@
 # Guillaume P. Pech
 
+## About
+Did you choose to be here? If yes, you must rely on a subjective experience that you make your *own choice*, producing action of your *own will*. But what is so specific about the actions that we experience as controlled compared to those that we do not? Why do we feel this way? 
+
+To answer these questions, I study neural and behavioral markers of **volition**, with a focus on the **Readiness Potential** and related self-report and implicit measures (e.g., temporal binding). More broadly, I investigate how decision-making processes interface with debates on free will and social/moral behavior.
+---
+
+
 _PhD Student, Université libre de Bruxelles (ULB)_  
 CO3 lab (ULB) — supervised by Prof. [Axel Cleeremans](https://axc.ulb.be/){:target="_blank"} 
 Brain Institute (Chapman University) — co-supervised by Prof. [Uri Maoz](https://www.chapman.edu/our-faculty/uri-maoz.aspx){:target="_blank"}   
@@ -7,12 +14,6 @@ M&SB lab (Ghent University) — collaborating with Prof. [Emilie Caspar](https:/
 
 **Research interests:** Intentions, effort, voluntary action, sense of agency, empathy, meta-science, decision-making, EEG and statistical inference.
 
----
-
-## About
-Did you choose to be here? If yes, you must rely on a subjective experience that you make your *own choice*, producing action of your *own will*. But what is so specific about the actions that we experience as controlled compared to those that we do not? Why do we feel this way? 
-
-To answer these questions, I study neural and behavioral markers of **volition**, with a focus on the **Readiness Potential** and related self-report and implicit measures (e.g., temporal binding). More broadly, I investigate how decision-making processes interface with debates on free will and social/moral behavior.
 
 > More infos -> [[CV]](/CV_Post_doc_2025.pdf){:target="_blank"} 
 
