@@ -1,0 +1,36 @@
+version: 1
+project:
+  title: Guillaume P. Pech
+  description: Cognitive neuroscience of volition, agency and decision-making
+  authors:
+    - name: Guillaume P. Pech
+      orcid: 0000-0002-8843-6604
+      email: guillaumepech.cog@gmail.com
+      affiliations:
+        - Université libre de Bruxelles (ULB)
+  github: https://github.com/GuillaumePech/gpech
+  toc:
+    - file: index.md
+    - file: publications.md
+    - file: teaching.md
+site:
+  template: book-theme
+  title: Guillaume P. Pech
+  nav:
+    - title: Publications
+      url: /publications
+    - title: Teaching
+      url: /teaching
+    - title: CV
+      url: /CV_Post_doc_2025.pdf
+  actions:
+    - title: Contact
+      url: mailto:guillaumepech.cog@gmail.com
+  options:
+    style: ./custom.css
+    logo_text: Guillaume P. Pech
+    favicon: portrait.jpg
+    hide_toc: true
+    hide_footer_links: true
+    hide_title_block: true
+    folders: true
