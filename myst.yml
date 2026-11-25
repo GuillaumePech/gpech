@@ -29,14 +29,14 @@ site:
       url: /contact
   actions:
     - title: CV
-      url: CV_Post_doc_2025.pdf
-      static: true
+      # full URL: a local file with `static: true` gets /gpech twice online (404)
+      url: https://github.com/GuillaumePech/gpech/blob/main/CV_Post_doc_2025.pdf
   parts:
     footer: footer.md
   options:
     style: ./custom.css
     logo_text: Guillaume P. Pech
-    favicon: portrait.jpg
+    favicon: favicon.png   # transparent; without it the MyST logo is shown
     hide_toc: true
     hide_footer_links: false
     hide_title_block: true
