@@ -30,7 +30,8 @@ site:
   actions:
     - title: CV
       # full URL: a local file with `static: true` gets /gpech twice online (404)
-      url: https://github.com/GuillaumePech/gpech/blob/main/CV_Post_doc_2025.pdf
+      url: https://guillaumepech.github.io/gpech/CV_Post_doc_2025.pdf
+
   parts:
     footer: footer.md
   options:

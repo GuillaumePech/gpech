@@ -25,6 +25,8 @@ jobs:
           node-version: 22
       - run: npm install -g mystmd
       - run: myst build --html
+      # fixed-name copy of the CV for the top-bar button (url in myst.yml)
+      - run: cp CV_Post_doc_2025.pdf _build/html/
       - uses: actions/upload-pages-artifact@v5
         with:
           path: ./_build/html
