@@ -1,6 +1,7 @@
 version: 1
 project:
   title: Guillaume P. Pech
+  short_title: About
   description: Cognitive neuroscience of volition, agency and decision-making
   authors:
     - name: Guillaume P. Pech
@@ -13,24 +14,31 @@ project:
     - file: index.md
     - file: publications.md
     - file: teaching.md
+    - file: contact.md
 site:
   template: book-theme
   title: Guillaume P. Pech
   nav:
+    - title: About
+      url: /index
     - title: Publications
       url: /publications
     - title: Teaching
       url: /teaching
-    - title: CV
-      url: /CV_Post_doc_2025.pdf
-  actions:
     - title: Contact
-      url: mailto:guillaumepech.cog@gmail.com
+      url: /contact
+  actions:
+    - title: CV
+      url: CV_Post_doc_2025.pdf
+      static: true
+  parts:
+    footer: footer.md
   options:
     style: ./custom.css
     logo_text: Guillaume P. Pech
     favicon: portrait.jpg
     hide_toc: true
-    hide_footer_links: true
+    hide_footer_links: false
     hide_title_block: true
+    hide_search: true
     folders: true
