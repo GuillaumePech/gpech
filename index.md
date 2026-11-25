@@ -9,12 +9,12 @@ To answer these questions, I study neural and behavioral markers of **volition**
 ---
 
 
-_PhD Student, Université libre de Bruxelles (ULB)_  
+_Postdoc, Université libre de Bruxelles (ULB)_  
 CO3 lab (ULB) — supervised by Prof. [Axel Cleeremans](https://axc.ulb.be/){:target="_blank"} 
-Brain Institute (Chapman University) — co-supervised by Prof. [Uri Maoz](https://www.chapman.edu/our-faculty/uri-maoz.aspx){:target="_blank"}   
+LAF / LN2T (ULB) — co-supervised by Prof. [Mathieu Bourguignon](https://cvchercheurs.ulb.ac.be/Site/unite/ULB390UK.php){:target="_blank"}   
 M&SB lab (Ghent University) — collaborating with Prof. [Emilie Caspar](https://emiliecaspar.home.blog/){:target="_blank"} 
 
-**Research interests:** Intentions, effort, voluntary action, sense of agency, empathy, meta-science, decision-making, EEG and statistical inference.
+**Research interests:** Volition, intention, sense of agency, handgrips, EEG and statistical inference.
 
 
 > More infos -> [[CV]](/CV_Post_doc_2025.pdf){:target="_blank"} 
